@@ -1,0 +1,52 @@
+a {
+  color: #707070;
+  background-color: #ffe1e6;
+}
+
+a:hover {
+  color: #ffbad8
+}
+.menu .button, .menu a {
+  padding: .7em 0.5rem;
+  background-color: #ffe1e6;
+}
+header { background-color: #ffe1e6}
+body {
+  background-color: #ffe1e6;
+}
+.top-bar-left .menu-text{
+padding: 0;
+background-color: #ffe1e6;
+}
+
+#logo{
+  padding: 0;
+  background-color: #ffe1e6
+}
+h3{
+  font-size: 2em
+}
+.menu-text{
+  font-weight: 400;
+  background-color: #ffe1e6;
+}
+
+footer .menu-text{
+  font-family: "Times New Roman", serif;
+}
+ul {
+  list-style:none
+}
+.blog-post h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top:
+}
+
+.medium-3, cell, stick-container, .sticky {
+  margin-top:2em;
+  background-color: #ffe1e6;
+}
+.sticky a{
+  font-weight: bold;
+}
